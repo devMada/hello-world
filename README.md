@@ -1,2 +1,2 @@
 # hello-world
-Just a Fun
+Hi all, Jack here, I like Data science
